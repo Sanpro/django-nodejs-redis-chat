@@ -1,0 +1,12 @@
+{
+  "name": "socket-chat",
+  "version": "0.0.1",
+  "description": "Socket.io Chat",
+  "dependencies": {
+    "express": "~4.9.1",
+    "socket.io": "~1.1.0",
+    "redis": "~0.12.1",
+    "cookie": "~0.1.2",
+    "querystring": "~0.2.0"
+  }
+}
